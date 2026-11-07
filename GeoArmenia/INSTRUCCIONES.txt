@@ -1,0 +1,22 @@
+GEOVISOR GEOARMENIA — VERSIÓN PARA SUSTENTACIÓN
+
+Abrir index.html con Chrome o Microsoft Edge.
+También se entrega una versión HTML única que no requiere descomprimir ningún ZIP.
+
+Se conservaron sin modificaciones los archivos de datos:
+ data/limite.js, data/red.js, data/franja.js, data/construcciones.js
+Y la totalidad de los valores numéricos y gráficos originales.
+
+NUEVAS FUNCIONES:
+- Cabecera institucional y fondo topográfico.
+- Panel de indicadores (cifras del Avance 5).
+- Vistas rápidas: General, Red hídrica, Presión territorial.
+- Modo presentación con más espacio para el mapa.
+- Guía de uso e impresión.
+- Mejor visualización en dispositivos móviles.
+
+El logotipo institucional se carga desde una página oficial de la Universidad del Quindío;
+si la imagen remota no está disponible, aparece la identificación tipográfica UQ.
+Los mapas base requieren conexión a Internet.
+
+Aviso académico: las franjas analíticas de 30 m no son rondas oficiales.
